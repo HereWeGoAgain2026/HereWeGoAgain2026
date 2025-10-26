@@ -5,7 +5,7 @@ I’m a curious mind who loves turning ideas into reality through code.
 
 When I’m not solving bugs or building something new, you’ll probably find me:  
 🎸 Playing guitar (self-taught ),  
-🧩 Speed-solving cubes (National Gold & Bronze, District Champion),  
+🧩 Speed-solving cubes (National Gold & Bronze, State Gold ,District Champion),  
 ✏️ Sketching whatever inspires me.  
 
 ### 💡 What I love
