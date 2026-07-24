@@ -90,14 +90,21 @@ Passions: Building scalable web applications, Object-Oriented Architecture, Spee
 ### 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HereWeGoAgain2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HereWeGoAgain2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HereWeGoAgain2026&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HereWeGoAgain2026&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HereWeGoAgain2026&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=HereWeGoAgain2026&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HereWeGoAgain2026&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
