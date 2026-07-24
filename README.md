@@ -38,7 +38,7 @@ Passions: Building scalable web applications, Object-Oriented Architecture, Spee
 ```
 
 - 💡 **What I Do:** Build high-performance full-stack web applications (Next.js 15, Appwrite, Supabase) & deep dive into C++ OOP architectures and Data Structures.
-- ⚡ **Current Focus:** Enterprise CRM systems, real-time pollution intelligence (Nirmal Dhara), and cloud infrastructure.
+- ⚡ **Current Focus:** Enterprise CRM systems, real-time web applications, and cloud infrastructure.
 - 🧩 **Fun Fact:** I'm a **National Gold Medalist in Rubik's Cube** competitions (District Champ at age 10!) and a self-taught fingerstyle guitarist for 7+ years.
 
 ---
@@ -69,7 +69,6 @@ Passions: Building scalable web applications, Object-Oriented Architecture, Spee
 | :--- | :--- | :--- | :---: |
 | ☀️ **Suryaksh Enterprise CRM** | Built complete Web Portal & CRM architecture for lead capture, service tracking, and automated onboarding alerts. | Next.js, Appwrite Cloud, Tailwind CSS, Resend | CTO Project |
 | 🚌 **Avadhoot Travels Platform** | Commercial travel platform for luxury sleeper coaches with dynamic route pricing, realtime updates & WhatsApp integration. | Next.js, Supabase, PostgreSQL, Framer Motion | Ongoing |
-| 🌊 **Nirmal Dhara** | AI-powered river pollution intelligence platform combining IoT sensor arrays & Raspberry Pi edge computer vision. | Node.js, Python TFLite, ESP32, Raspberry Pi | Hackathon 2026 |
 | ⚡ **CodeFlow** | Interactive visualizer executing DSA code step-by-step to simulate array, list, stack, tree, and sorting control flows. | Python, Node.js, Tailwind CSS | Published |
 | 🎮 **Underworld Empire Engine** | Large-scale C++ strategy simulation game engine with OOP inheritance, dynamic binding, AI rivals, & file persistence. | C++, OOP, STL, File I/O | Published |
 | 🥗 **NutriHunt** | Health & nutrition discovery web platform delivering personalized food choices and UI components. | HTML, CSS, JavaScript, Vercel | Published |
