@@ -87,18 +87,13 @@ Passions: Building scalable web applications, Object-Oriented Architecture, Spee
 
 ---
 
-### 📈 GitHub Statistics & Activity
+### 📈 GitHub Profile Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HereWeGoAgain2026&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HereWeGoAgain2026&theme=tokyonight" alt="Yash Profile Summary" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HereWeGoAgain2026&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HereWeGoAgain2026&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HereWeGoAgain2026&theme=tokyonight" alt="Yash Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HereWeGoAgain2026&theme=tokyonight" alt="Language Distribution" />
 </div>
 
 <br/>
@@ -110,7 +105,7 @@ Passions: Building scalable web applications, Object-Oriented Architecture, Spee
 <br/>
 
 <div align="center">
-  <img src="https://github.com/HereWeGoAgain2026/HereWeGoAgain2026/blob/output/github-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/HereWeGoAgain2026/HereWeGoAgain2026/output/github-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
